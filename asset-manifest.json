@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/Central-Cars/static/css/main.073c9b0a.css",
-    "main.js": "/Central-Cars/static/js/main.0b4225ed.js",
-    "static/js/787.26a0ba6b.chunk.js": "/Central-Cars/static/js/787.26a0ba6b.chunk.js",
-    "static/media/logo.svg": "/Central-Cars/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/Central-Cars/static/js/main.a3d8ea8c.js",
     "index.html": "/Central-Cars/index.html",
-    "main.073c9b0a.css.map": "/Central-Cars/static/css/main.073c9b0a.css.map",
-    "main.0b4225ed.js.map": "/Central-Cars/static/js/main.0b4225ed.js.map",
-    "787.26a0ba6b.chunk.js.map": "/Central-Cars/static/js/787.26a0ba6b.chunk.js.map"
+    "main.a3d8ea8c.js.map": "/Central-Cars/static/js/main.a3d8ea8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0b4225ed.js"
+    "static/js/main.a3d8ea8c.js"
   ]
 }
