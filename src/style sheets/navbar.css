@@ -1,0 +1,22 @@
+.nav--logo {
+  height: 45px;
+  width: auto;
+}
+
+.navbar-brand {
+  color: black;
+  font-size: 22px;
+  padding-left: 7px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.nav-item {
+  color: black;
+  font-size: 16px;
+  font-family: 'Noto Sans', sans-serif;
+}
+.nav-item:hover {
+  color: #002A7B;
+  font-weight: 600;
+  text-decoration: underline;
+}
