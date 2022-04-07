@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/Central-Cars/static/js/main.a3d8ea8c.js",
+    "main.css": "/Central-Cars/static/css/main.649a0e61.css",
+    "main.js": "/Central-Cars/static/js/main.86c31800.js",
+    "static/media/showroom.jpg": "/Central-Cars/static/media/showroom.0626292813054a706bb4.jpg",
+    "static/media/logo1.png": "/Central-Cars/static/media/logo1.7004d9c498e5260fcc8b.png",
     "index.html": "/Central-Cars/index.html",
-    "main.a3d8ea8c.js.map": "/Central-Cars/static/js/main.a3d8ea8c.js.map"
+    "main.649a0e61.css.map": "/Central-Cars/static/css/main.649a0e61.css.map",
+    "main.86c31800.js.map": "/Central-Cars/static/js/main.86c31800.js.map"
   },
   "entrypoints": [
-    "static/js/main.a3d8ea8c.js"
+    "static/css/main.649a0e61.css",
+    "static/js/main.86c31800.js"
   ]
 }
