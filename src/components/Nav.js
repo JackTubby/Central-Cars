@@ -17,7 +17,7 @@ function Navbar() {
         {/* Button for mobile users burger icon */}
         <button
           type='button'
-          class='navbar-toggler'
+          className='navbar-toggler'
           data-bs-toggle='collapse'
           data-bs-target='#navbarCollapse'
         >
