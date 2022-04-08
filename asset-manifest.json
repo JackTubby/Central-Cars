@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Central-Cars/static/css/main.649a0e61.css",
-    "main.js": "/Central-Cars/static/js/main.86c31800.js",
+    "main.css": "/Central-Cars/static/css/main.2658ca0e.css",
+    "main.js": "/Central-Cars/static/js/main.88fbdb75.js",
     "static/media/showroom.jpg": "/Central-Cars/static/media/showroom.0626292813054a706bb4.jpg",
     "static/media/logo1.png": "/Central-Cars/static/media/logo1.7004d9c498e5260fcc8b.png",
+    "static/media/aa-big-banner.png": "/Central-Cars/static/media/aa-big-banner.5390bd5c82d4254dee20.png",
     "index.html": "/Central-Cars/index.html",
-    "main.649a0e61.css.map": "/Central-Cars/static/css/main.649a0e61.css.map",
-    "main.86c31800.js.map": "/Central-Cars/static/js/main.86c31800.js.map"
+    "main.2658ca0e.css.map": "/Central-Cars/static/css/main.2658ca0e.css.map",
+    "main.88fbdb75.js.map": "/Central-Cars/static/js/main.88fbdb75.js.map"
   },
   "entrypoints": [
-    "static/css/main.649a0e61.css",
-    "static/js/main.86c31800.js"
+    "static/css/main.2658ca0e.css",
+    "static/js/main.88fbdb75.js"
   ]
 }
